@@ -1,0 +1,3 @@
+# MealToGo
+yarn
+yarn android
